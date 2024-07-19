@@ -26,6 +26,9 @@ while True:
 '''
 
 ## Steps
+
+Using schedule library: https://www.geeksforgeeks.org/how-to-implement-interval-scheduling-algorithm-in-python/
+Custom scheduling algorithms: Stack Overflow thread with a basic implementation (https://stackoverflow.com/questions/54339470/python-scheduling-algorithm)
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
