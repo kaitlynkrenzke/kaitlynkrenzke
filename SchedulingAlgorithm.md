@@ -10,7 +10,7 @@ The objective of this personal project is to demonstrate python coding ability i
 - 
 
 ## Code 
-'''
+```
 import schedule
 import time
 
@@ -23,7 +23,7 @@ schedule.every(1).minutes.do(job)
 while True:
   schedule.run_pending()
   time.sleep(1)
-'''
+```
 
 ## Steps
 
