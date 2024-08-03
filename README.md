@@ -12,8 +12,8 @@ I am highly motivated and results-oriented professional with a Bachelor of Arts 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Incident Entry                                | <a href="[https://google.com](https://github.com/kaitlynkrenzke/kaitlynkrenzke/blob/main/IncidentEntry.md)">Incidnt Handler's Journal</a>|
+| Incident Report Analysis                      | <a href="[https://google.com](https://github.com/kaitlynkrenzke/kaitlynkrenzke/blob/main/IncidentReport.md)">Incident Report</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
