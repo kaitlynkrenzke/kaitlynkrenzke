@@ -1,7 +1,7 @@
 # Hello, I'm Kaitlyn Krenzke 
-<a href="www.linkedin.com/in/kaitlyn-krenzke/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kaitlyn-krenzke/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="www.linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 I am highly motivated and results-oriented professional with a Bachelor of Arts in Psychology and Google certifications in IT Support and Cybersecurity.
