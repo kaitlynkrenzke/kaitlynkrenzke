@@ -8,7 +8,7 @@ I am highly motivated and results-oriented professional with a Bachelor of Arts 
 
 ## Objective
 
-
+Seeking an entry-level IT Support position to leverage technical skills and strong problem-solving abilities to provide exceptional customer service and contribute to a dynamic IT environment.
 
 ## Skills and Projects
 
