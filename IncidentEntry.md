@@ -22,5 +22,5 @@ Where: A small U.S. Health care clinic
 Why: Documents held for ransom. 
 
 Additional notes: 
-The organization should go through phishing training to prevent further attacks. 
+Data was retrieved using simple decryption, investigation is still underway. The organization should go through phishing training to prevent further attacks. 
 
